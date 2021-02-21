@@ -1,0 +1,2 @@
+# HDU-OJ_solution_code_for_each_problem
+这里是作者总结的杭电oj总结的求解代码，部分参考网络，侵权必删
